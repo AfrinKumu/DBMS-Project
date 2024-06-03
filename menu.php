@@ -56,7 +56,7 @@
   
     <style>
 		.fixed_header th, .fixed_header td {
-			width: 210px;
+			width: 220px;
 		}
 		.table-fixed tbody {
 			height: auto;
